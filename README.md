@@ -13,3 +13,6 @@ then restart the pihole-FTL service for the changes to be active.
 
 you might also have to flush the dns cache on the devices using Pi-hole.
 
+## Inspiration 
+
+I noticed https://github.com/pi-hole/pi-hole/pull/2978 and have been wanting to SafeSearch 
