@@ -15,13 +15,13 @@ you might also have to flush the dns cache on the devices using Pi-hole.
 
 ## Inspiration 
 
-I noticed <https://github.com/pi-hole/pi-hole/pull/2978> and have been wanting to SafeSearch 
+I noticed [pi-hole/pi-hole/pull/2978 ](https://github.com/pi-hole/pi-hole/pull/2978) and have been wanting to SafeSearch 
 
 
 ## Feature Request
 
-<https://discourse.pi-hole.net/t/import-etc-pihole-custom-list-for-easier-safe-search-enforcement/25724>
+<https://discourse.pi-hole.net/t/import-etc-pihole-custom-list-for-easier-safe-search-enforcement/>
 
 ### Original gist
 
-<https://gist.github.com/mwoolweaver/25b3f03c36ac46da6c5b645cb1c1f180>
+[mwoolweaver/gist/custom.list](https://gist.github.com/mwoolweaver/25b3f03c36ac46da6c5b645cb1c1f180)
