@@ -19,7 +19,7 @@ you might also have to flush the dns cache on the devices using Pi-hole.
 
 ## Inspiration 
 
-I noticed [pi-hole/pi-hole/pull/2978 ](https://github.com/pi-hole/pi-hole/pull/2978) and have been wanting to SafeSearch 
+I noticed [pi-hole/pi-hole/pull/2978 ](https://github.com/pi-hole/pi-hole/pull/2978) and have been wanting to use SafeSearch 
 
 
 ## Feature Request
