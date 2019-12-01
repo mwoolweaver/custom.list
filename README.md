@@ -22,3 +22,6 @@ I noticed <https://github.com/pi-hole/pi-hole/pull/2978> and have been wanting t
 
 <https://discourse.pi-hole.net/t/import-etc-pihole-custom-list-for-easier-safe-search-enforcement/25724>
 
+### Original gist
+
+< https://gist.github.com/mwoolweaver/25b3f03c36ac46da6c5b645cb1c1f180>
