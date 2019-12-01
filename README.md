@@ -1,3 +1,7 @@
+### Original gist
+
+[mwoolweaver/gist/custom.list](https://gist.github.com/mwoolweaver/25b3f03c36ac46da6c5b645cb1c1f180)
+
 # /etc/pihole/custom.list
 A way to enforce Safe Search for Google, Bing, DuckDuckGo, YouTube, and some others w/o editing dnsmasq config files.
 
@@ -21,7 +25,3 @@ I noticed [pi-hole/pi-hole/pull/2978 ](https://github.com/pi-hole/pi-hole/pull/2
 ## Feature Request
 
 <https://discourse.pi-hole.net/t/import-etc-pihole-custom-list-for-easier-safe-search-enforcement/>
-
-### Original gist
-
-[mwoolweaver/gist/custom.list](https://gist.github.com/mwoolweaver/25b3f03c36ac46da6c5b645cb1c1f180)
